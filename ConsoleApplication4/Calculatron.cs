@@ -12,11 +12,12 @@ namespace ConsoleApplication4
         {
             return x + y;
         }
-        
-        public double Subtract(double x, double y)
+        // blah
+        public double Subtract(double x, double y) 
         {
             return x - y;
         }
+        // double blah
 
         public double Multiply(double x, double y)
         {
